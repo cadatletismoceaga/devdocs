@@ -198,7 +198,7 @@ Dead simple HTML-safe truncation via the DOM. It truncates HTML code, and has se
 The AWS SDK for PHP library
 
 - **Location**: public/lib/aws-sdk
-- **Version**: 3.356.22
+- **Version**: 3.369.22
 - **License**:  Apache 2.0
 - **URL**: [https://github.com/aws/aws-sdk-php](https://github.com/aws/aws-sdk-php)
 
@@ -1221,17 +1221,6 @@ HTML, CSS, and JavaScript framework for developing responsive, mobile-first proj
 - **Copyright holders**:
   - 2011-2021 Twitter, Inc
   - 2011-2021 The Bootstrap Authors
-
-### @moodlehq/design-system {/* #moodlehqdesign-system */}
-
-The Moodle HQ design system based on React
-
-- **Location**: public/theme/boost/scss/design-system
-- **Version**: 2.1.1
-- **License**:  GNU
-- **URL**: [https://github.com/moodlehq/design-system](https://github.com/moodlehq/design-system)
-- **Copyright holders**:
-  - Moodle HQ
 
 ### Font Awesome - http://fontawesome.com {/* #font-awesome---httpfontawesomecom */}
 

@@ -212,7 +212,7 @@
         "location": "public/lib/aws-sdk",
         "name": "AWS SDK for PHP",
         "description": "The AWS SDK for PHP library",
-        "version": "3.356.22",
+        "version": "3.369.22",
         "license": "Apache",
         "licenseversion": "2.0",
         "repository": "https://github.com/aws/aws-sdk-php",
@@ -1373,18 +1373,6 @@
         "license": "MIT",
         "repository": "https://github.com/twbs/bootstrap",
         "customised": true
-    },
-    {
-        "copyrightHolders": [
-            "Moodle HQ"
-        ],
-        "location": "public/theme/boost/scss/design-system",
-        "name": "@moodlehq/design-system",
-        "description": "The Moodle HQ design system based on React",
-        "version": "2.1.1",
-        "license": "GNU",
-        "repository": "https://github.com/moodlehq/design-system",
-        "customised": false
     },
     {
         "copyrightHolders": [
